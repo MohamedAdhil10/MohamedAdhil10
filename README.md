@@ -1,12 +1,31 @@
-- 👋 Hi, I’m Mohamed Adhil
-- 👀 I’m interested in Data Science, Machine Learning, and AI
-- 🌱 I’m currently learning Data Visualization, Machine Learning Algorithm, and SQL
-- 💞️ I’m looking to collaborate on open-source data science projects
-- 📫 How to reach me md.adhil@outlook.com
-- 😄 Pronouns: He
-- ⚡ Fun fact: Every small step in Data Science feels like a giant leap toward my dream career
+Hi, I'm Mohamed Adhil 👋
 
-<!---
-MohamedAdhil10/MohamedAdhil10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+GenAI/ML Python Developer | Python | Machine Learning | Deep Learning | LLM Applications
+
+I'm a Python developer with a background in Actuarial Science and Data Science, focused on building practical AI/ML solutions, data pipelines, and intelligent applications.
+
+I enjoy turning data and machine learning concepts into working projects — from predictive models and NLP classifiers to API-based applications and LLM experiments.
+
+- 💼 Role: GenAI/ML Python Developer at Yoho Technologies
+- 🧠 Interests: Generative AI, LLMs, NLP, Machine Learning, and Deep Learning
+- 🐍 Primary language: Python
+- 🔬 Currently exploring: LLM APIs, embeddings, semantic search, FAISS, LangChain, and AI application development
+- 🚀 Goal: Build reliable, maintainable, and useful AI-powered applications
+
+---
+
+🌱 Currently Learning
+
+- Building LLM-powered Python applications
+- Working with embeddings and vector search
+- Designing data ingestion and retrieval pipelines
+- Integrating AI models into APIs
+- Improving testing, documentation, and deployment practices
+
+---
+
+🤝 Let's Connect
+
+- GitHub: "MohamedAdhil10" (https://github.com/MohamedAdhil10)
+
+I'm interested in AI/ML engineering, Generative AI, NLP, and building practical Python applications.
